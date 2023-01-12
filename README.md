@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/588296436.svg)](https://zenodo.org/badge/latestdoi/588296436)
+
 __Title: Prey metabolic responses to predators depend on predator hunting mode and prey antipredator defenses__
 
 Authors: Sommer, N.R., Alshwairikh, Y.A., Andis Arietta, A.Z., Skelly, D. K., Buchkowski, R.W.
